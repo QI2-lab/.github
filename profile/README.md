@@ -1,9 +1,17 @@
-## Quantum Information and Inference Group ($QI^2$-lab)
+## Quantum Information and Inference group (QI²-lab)
 ### @IFPAN, Warsaw, Poland
 
-Welcome to the official GitHub repository for the **Quantum Information and Inference** ($QI^2$) group at the **Institute of Physics, Polish Academy of Sciences (IFPAN)**.
+Welcome to the GitHub repository of the **Quantum Information and Inference (QI²)** group at the **Institute of Physics, Polish Academy of Sciences (IFPAN)**.
 
-Our research sits at the intersection of quantum mechanics, information theory, and statistical inference. You can find more details about our team, latest publications, and specific research projects on our official website:
+We primarily work on **quantum metrology and sensing technologies**. We develop fundamental theory for **quantum estimation tasks** to support experimental implementations, with a particular focus on:
+* **[Atomic-ensemble](https://arxiv.org/abs/2503.14793)** sensors.
+* **[Optomechanical](https://arxiv.org/abs/2602.19792)** systems.
+* **[Solid-state](https://arxiv.org/abs/2109.01160)** quantum devices.
+
+Our research lies at the intersection of quantum mechanics, information theory, [statistical inference](https://arxiv.org/abs/2407.00724), and [control engineering](https://arxiv.org/abs/2510.11884). 
+
+
+You can find more details about our team, latest publications, and specific research projects on our official website:
 
 👉 **[Research Group Website](http://www.theory.ifpan.edu.pl/research/)**
 
