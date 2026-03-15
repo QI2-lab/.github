@@ -13,7 +13,7 @@ Our research sits at the intersection of quantum mechanics, information theory, 
 
 For enquiries regarding our research, collaborations, or the contents of this repository, please approach our group leader:
 
-**Janek Kołodyński** 📧 [jankolo@ifpan.edu.pl](mailto:jankolo@ifpan.edu.pl)
+**Janek Kołodyński** 📧 [&#106;ankolo&#64;ifpan.edu.pl](mailto:&#106;ankolo&#64;ifpan.edu.pl)
 
 ---
 *© 2026 Quantum Information and Inference Group, IFPAN.*
