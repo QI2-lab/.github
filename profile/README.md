@@ -11,7 +11,7 @@ Our research sits at the intersection of quantum mechanics, information theory, 
 
 ### Contact
 
-For enquiries regarding our research, collaborations, or the contents of this repository, please approach our group leader:
+For enquiries regarding our research, collaborations, or the contents of this repository, please approach the group leader:
 
 **Janek Kołodyński** 📧 [&#106;ankolo&#64;ifpan.edu.pl](mailto:&#106;ankolo&#64;ifpan.edu.pl)
 
