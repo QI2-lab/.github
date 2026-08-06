@@ -12,7 +12,7 @@ Our research lies at the intersection of quantum mechanics, information theory, 
 
 You can find more details about our team, latest publications, and specific research projects on our departmental website:
 
-👉 **[theory.IFPAN](http://www.theory.ifpan.edu.pl/research/)**
+👉 **[theory.IFPAN](https://theory.ifpan.edu.pl/)**
 
 ---
 
