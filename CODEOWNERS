@@ -1,0 +1,24 @@
+# ==============================================================================
+# Global Owners
+# ==============================================================================
+# Default owners for everything in the repository unless overridden below
+* @JanekKolodynski @QI2-lab/maintainers
+
+# ==============================================================================
+# Directory-Specific Owners
+# ==============================================================================
+# Core theoretical models & algorithms
+/src/ @JanekKolodynski @QI2-lab/postdocs
+
+# Experimental/simulation data or heavy datasets
+/data/ @QI2-lab/phd-students
+
+# Documentation & publication source files
+/docs/ @QI2-lab/maintainers
+
+# ==============================================================================
+# File Extension Owners
+# ==============================================================================
+# CI/CD workflows and GitHub config
+/.github/ @JanekKolodynski
+*.yml @JanekKolodynski
