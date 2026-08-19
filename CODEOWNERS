@@ -8,10 +8,10 @@
 # Directory-Specific Owners
 # ==============================================================================
 # Core theoretical models & algorithms
-/src/ @JanekKolodynski @QI2-lab/postdocs
+/src/ @JanekKolodynski @QI2-lab/post-phd
 
 # Experimental/simulation data or heavy datasets
-/data/ @QI2-lab/phd-students
+/data/ @QI2-lab/pre-phd
 
 # Documentation & publication source files
 /docs/ @QI2-lab/maintainers
