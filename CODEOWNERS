@@ -2,23 +2,23 @@
 # Global Owners
 # ==============================================================================
 # Default owners for everything in the repository unless overridden below
-* @JanekKolodynski @QI2-lab/maintainers
+* @jankolo @QI2-lab/post-phd @QI2-lab/pre-phd
 
 # ==============================================================================
 # Directory-Specific Owners
 # ==============================================================================
 # Core theoretical models & algorithms
-/src/ @JanekKolodynski @QI2-lab/post-phd
+/src/ @jankolo @QI2-lab/post-phd
 
 # Experimental/simulation data or heavy datasets
 /data/ @QI2-lab/pre-phd
 
 # Documentation & publication source files
-/docs/ @QI2-lab/maintainers
+/docs/ @jankolo
 
 # ==============================================================================
 # File Extension Owners
 # ==============================================================================
 # CI/CD workflows and GitHub config
-/.github/ @JanekKolodynski
-*.yml @JanekKolodynski
+/.github/ @jankolo
+*.yml @jankolo
