@@ -20,7 +20,7 @@ You can find more details about our team, latest publications, and specific rese
 
 For enquiries regarding our research, collaborations, or the contents of this repository, please approach the group leader:
 
-**Janek Kołodyński** 📧 [&#106;ankolo&#64;ifpan.edu.pl](mailto:&#106;ankolo&#64;ifpan.edu.pl)
+**Janek Kołodyński** 📧 [&#106;ankolo&#64;ifpan.edu.pl](mailto:&#106;ankolo&#64;ifpan.edu.pl) | 🎓 [Google Scholar](https://scholar.google.com/citations?hl=en&user=YJ5GK4IAAAAJ&view_op=list_works&sortby=pubdate)
 
 ---
 *© 2026 Quantum Information and Inference Group, IFPAN.*
